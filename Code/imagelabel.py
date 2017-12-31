@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 11 18:33:18 2017
 
-@author: Sreenivas
-"""
 from PIL import Image
 import os
 import os.path
