@@ -1,12 +1,4 @@
 
-# coding: utf-8
-
-# In[4]:
-
-
-
-
-# In[9]:
 
 import glob
 import shutil
@@ -44,7 +36,6 @@ loadImages("C:/Users/nitesh/Documents/MLproject/convnet_input/photo500/")
 
 
 
-# In[ ]:
 
 
 
