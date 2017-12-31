@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 18 09:04:56 2017
 
-@author: Sreenivas
-"""
 
 import torch
 from torch.autograd import Variable
