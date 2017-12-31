@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov  5 18:36:57 2017
 
-@author: Sreenivas
-"""
 import torch
 from torch.autograd import Variable
 import torchvision.transforms as transforms
